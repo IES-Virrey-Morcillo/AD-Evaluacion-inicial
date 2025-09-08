@@ -2,7 +2,7 @@
 Evaluación inicial sobre bases de datos y programación en Java. **No se trata de averiguar qué sabe hacer ChatGPT, si no de saber qué sabes hacer tú por ti mismo**. Este repositorio contiene un proyecto de NetBeans en Java. 
 
 **_ES OBLIGATORIO QUE REALICES UN COMMIT TRAS RESOLVER CADA UNO DE LOS EJERCICIOS_** Cuando finalices un ejercicio, realiza un commit en tu repositorio con:
-- <ins>Summary (resumen).</ins> "Finalizado ejercicio X - Sección". 
+- <ins>Summary (resumen).</ins> "Finalizado ejercicio X - Sección Bases de datos/Programación básica/Programación excepciones". 
 - <ins>Descripción</ins>. Dificultades encontradas, **pruebas** realizadas, tiempo de resolución, y si lo has resuelto por ti mismo, o si has recibido ayuda de un compañero/profesor/corrección.
 
 ## Bases de datos. SQL
